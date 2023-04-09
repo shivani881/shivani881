@@ -1,5 +1,4 @@
 - 👋 Hello, I’m shivani..
-- 👀 I’m interested in programming as well as in Development ...
 - 📫 How to reach me -rawatshivani885@gmail.com
 
 <!---
